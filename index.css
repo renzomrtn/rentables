@@ -16,6 +16,10 @@ body {
     display: flex;
 }
 
+.logo {
+    width: 7%;
+}
+
 a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
